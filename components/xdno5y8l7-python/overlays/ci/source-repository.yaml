@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xdno5y8l7-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xdno5y8l7-python
